@@ -1,0 +1,86 @@
+{
+    "operators": [
+        {
+            "id": 1,
+            "name": "Sledge",
+            "role": "Attacker",
+            "specialty": "Breaching",
+            "description": "Gebruikt een zware breekhamer om muren en vloeren te vernietigen."
+        },
+        {
+            "id": 2,
+            "name": "Ash",
+            "role": "Attacker",
+            "specialty": "Explosives",
+            "description": "Schiet explosieve projectielen om barricades en vijanden te elimineren."
+        },
+        {
+            "id": 3,
+            "name": "Thermite",
+            "role": "Attacker",
+            "specialty": "Hard Breach",
+            "description": "Heeft exothermische ladingen om versterkte muren te openen."
+        },
+        {
+            "id": 4,
+            "name": "Hibana",
+            "role": "Attacker",
+            "specialty": "Hard Breach",
+            "description": "Schiet X-KAIROS explosieven om openingen in versterkte muren te maken."
+        },
+        {
+            "id": 5,
+            "name": "Zofia",
+            "role": "Attacker",
+            "specialty": "Gadgets & Explosives",
+            "description": "Heeft een dubbele granaatwerper met zowel explosieve als concussiegranaten."
+        },
+        {
+            "id": 6,
+            "name": "Rook",
+            "role": "Defender",
+            "specialty": "Support",
+            "description": "Levert bepantsering aan zijn teamleden voor extra bescherming."
+        },
+        {
+            "id": 7,
+            "name": "Jäger",
+            "role": "Defender",
+            "specialty": "Anti-Grenade",
+            "description": "Gebruikt ADS-systemen om vijandelijke granaten neer te schieten."
+        },
+        {
+            "id": 8,
+            "name": "Bandit",
+            "role": "Defender",
+            "specialty": "Electricity",
+            "description": "Plaatst schokdraden op versterkte muren om vijandelijke apparatuur te vernietigen."
+        },
+        {
+            "id": 9,
+            "name": "Mute",
+            "role": "Defender",
+            "specialty": "Signal Disruption",
+            "description": "Gebruikt signaalverstoorders om vijandelijke drones en gadgets te blokkeren."
+        },
+        {
+            "id": 10,
+            "name": "Kapkan",
+            "role": "Defender",
+            "specialty": "Traps",
+            "description": "Plaatst explosieve valstrikken op deuren en ramen."
+        }
+    ],
+    "roles": [
+        {
+            "id": 1,
+            "name": "Attacker",
+            "description": "Operators die aanvallen en objectieven veroveren."
+        },
+        {
+            "id": 2,
+            "name": "Defender",
+            "description": "Operators die gebieden verdedigen en vijanden buiten houden."
+        }
+    ]
+}
